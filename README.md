@@ -1,17 +1,7 @@
 - 👋 Olá, eu sou o Alan Pinheiro
 - 👀 Estou interessado em conteúdos sobre Python
 - 🌱 Sou estudante de Gestão em Tecnologia da Informação
-<div>
-  <a href="https://www.facebook.com/alan.pinheiro.92">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   
-</div>
-  
- <div>
-  <a href="https://github.com/Alanps31">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alanps31&show_icons=true&theme=reddit&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanps31&layout=compact&langs_count=7&theme=reddit"/>
-</div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
